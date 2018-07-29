@@ -4,7 +4,7 @@ choco install python -y
 choco install googlechrome -y 
 choco install vscode -y 
 choco install qbittorrent -y 
-choco install rufus -y 
+choco install etcher -y 
 choco install sharex -y 
 choco install windirstat -y 
 choco install 7zip -y 
